@@ -1,5 +1,5 @@
 google-play-scraper==1.2.7
-supabase==2.4.0
+supabase==1.2.0
 pandas==2.2.0
 numpy==1.26.4
 anthropic==0.40.0
